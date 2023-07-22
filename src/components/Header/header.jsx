@@ -10,7 +10,7 @@ function Header() {
           <a href="index.html">
             <img
               class="logo"
-              src="src/assets/logo-titre-milieu-2-2020.svg"
+              src="../../assets/logo-titre-milieu-2-2020.svg"
               width="645"
               height="340"
               alt="logo la radio de fifi"
